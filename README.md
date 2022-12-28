@@ -1,2 +1,2 @@
-# lab3 Test
-## JubJub - Idea Bunyalit
+# lab7
+## Idea Bunyalit
